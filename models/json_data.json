@@ -1,0 +1,57 @@
+{
+    "Outlet_Type": {
+        "Grocery Store": 0,
+        "Supermarket Type1": 1,
+        "Supermarket Type2": 2,
+        "Supermarket Type3": 3
+    },
+    "Item_Fat_Content": {
+        "Low Fat": 0,
+        "Regular": 1
+    },
+    "Outlet_Location_Type": {
+        "Tier 1": 0,
+        "Tier 2": 1,
+        "Tier 3": 2
+    },
+    "Outlet_Size": {
+        "Small": 0,
+        "Medium": 1,
+        "High": 2
+    },
+    "columns": [
+        "Item_Weight",
+        "Item_Fat_Content",
+        "Item_Visibility",
+        "Item_MRP",
+        "Outlet_Establishment_Year",
+        "Outlet_Size",
+        "Outlet_Location_Type",
+        "Outlet_Type",
+        "Breads",
+        "Breakfast",
+        "Canned",
+        "Dairy",
+        "Frozen Foods",
+        "Fruits and Vegetables",
+        "Hard Drinks",
+        "Health and Hygiene",
+        "Household",
+        "Meat",
+        "Others",
+        "Seafood",
+        "Snack Foods",
+        "Soft Drinks",
+        "Starchy Foods",
+        "OUT010",
+        "OUT013",
+        "OUT017",
+        "OUT018",
+        "OUT019",
+        "OUT027",
+        "OUT035",
+        "OUT045",
+        "OUT046",
+        "OUT049"
+    ]
+}
